@@ -14,8 +14,11 @@ Click <a href="http://www.opensourcetechnologies.com/downloads/accosapg_document
 Installation Instructions:
 
 1.Download the extension to your local machine as a .zip file package.
+
 2.From the backend of your Joomla site (administration) select Extensions -> Install/Uninstall.
+
 3.Click the Browse button and select the extension package on your local machine.
+
 4.Click the Upload File & Install button.
 
 Note: The module must be enabled.
